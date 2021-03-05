@@ -12,7 +12,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Calculadora</title>
+        <title>Calculadora - PHP</title>
     </head>
     <body>
         <form action="index.php" method="post">
